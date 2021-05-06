@@ -1,4 +1,5 @@
 
+console.clear();
 let vacio="";
 let aster="";
 let numero= parseInt(prompt("Escribe el número que será el ancho del rombo"));
